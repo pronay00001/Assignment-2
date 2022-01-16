@@ -1,0 +1,109 @@
+body{
+
+
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+
+    font-size: 50px;
+
+}
+section{
+    display: flex;
+}
+.half-width {
+    width: 50%;
+    padding-left: 10%;
+
+}
+.half-width img{
+    width: 80%;
+
+
+
+}
+.full-width {
+
+     display: flex;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 15px;
+}
+/* -------------------
+     Courses Style
+ */
+  .course .course-banner img{
+      width: 224px;
+      height:104px;
+  }
+
+
+ .container{
+     display: flex;
+     margin-right: 25px;
+
+
+ }
+
+ .gold-2{
+     display: flex;
+     margin-right: 25px;
+
+
+ }
+
+ .gold-3{
+     display: flex;
+     margin-right: 25px;
+
+
+ }
+   .gold-4{
+       background-color:linen;
+
+   }
+h4{
+    color: red;
+     text-align: right;
+}
+
+  .width{
+      text-align: center;
+      background-color:indigo;
+      width:100%;
+
+
+
+
+  }
+     .won{
+
+          text-align: center;
+
+     }
+.won2 {
+
+    text-align: center;
+}
+.won3{
+
+  text-align: center;
+
+}
+.won1{
+    margin-right: 5px;
+}
+h5{
+    text-align: center;
+     width: 25%;
+}
+
+
+
+
+
+
